@@ -1,0 +1,2 @@
+# Sien-Kor
+Practicing programming
