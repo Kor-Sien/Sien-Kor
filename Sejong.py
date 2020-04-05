@@ -314,4 +314,4 @@ async def on_message(message):
         await message.channel.send(embed=embed, file=discord.File(weatherpic))
 
 
-client.run("NjkyNjU0MjY1MDEyOTc3Njk1.Xn3G3g.V48dLa9BErCz2cC6S8f7OKuwuxQ")
+client.run("NjkyNjU0MjY1MDEyOTc3Njk1.XooLbA.VrEjezPmQ7El4PBIk0kO-iEz8x4")
